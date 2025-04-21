@@ -5,28 +5,17 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Quiz</title>
     <link rel="stylesheet" href="styles.css">
-    <script src="index.js"></script>
 </head>
 <body>
-    <div id="startQuiz">
+    <h1>How much do you know about Resident Evil?
+        <div class="quiz-container">
+          <div id="quiz"></div>
+        </div>
+        <button id="previous">Previous Question
+        <button id="next">Next Question
+        <button id="submit">Submit Quiz
+        <div id="results"></div>
+        <script src="index.js"></script>
 
-        <h1>Quiz!</h1>
-        
-        <button onclick="myFunction()">Start Quiz</button>
-        
-        <p>How much do you know about Resident Evil?</p>
-    </div>
-
-    <div id="questions">
-        When was the first ever Resident Evil game released?<br><br>
-        <input type="radio" name="question1" >1986<br>
-        <input type="radio" name="question1" id="correct1">1996<br>
-        <input type="radio" name="question1" >1999<br>
-        <input type="radio" name="question1" >2001<br><br>
-
-        <input type="submit" name="submit" value="submitQuiz" onclick="result()"
-    </div>
-
-    
 </body>
 </html>
