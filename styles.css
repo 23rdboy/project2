@@ -21,13 +21,14 @@ h1{
   margin-bottom: 20px;
   text-align: left;
   display: inline-block;
+  color:#242424;
 }
 .answers label{
   display: block;
   margin-bottom: 10px;
 }
 button{
-  font-family: 'Work Sans', sans-serif;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 	font-size: 22px;
 	background-color: rgb(153, 34, 34);
 	color: #fff;
