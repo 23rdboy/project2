@@ -102,11 +102,11 @@
     {
         question: "Which other Capcom game was born from an early version of Resident Evil 4?",
         answers: {
-            a: "Dead Rising",
-            b: "Devil May Cry",
+            a: "Devil May Cry",
+            b: "Dead Rising",
             c: "Killer7"
         },
-        correctAnswer: "b"
+        correctAnswer: "a"
     },
     {
         question: "What is Leon Kennedy’s middle name?",
